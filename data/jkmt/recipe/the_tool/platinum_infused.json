@@ -1,0 +1,38 @@
+{
+  "type": "crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "illagerexp:platinum_infused_netherite_axe",
+    "illagerexp:platinum_infused_netherite_pickaxe",
+    "illagerexp:platinum_infused_netherite_hoe",
+    "illagerexp:platinum_infused_netherite_shovel"
+  ],
+  "result": {
+    "count": 1,
+    "id": "illagerexp:platinum_infused_netherite_axe",
+    "components": {
+      "lore": [
+        {
+          "text": "Multitool",
+          "color": "aqua",
+          "italic": false
+        }
+      ],
+      "custom_data": {
+        "jkmt": [
+          "illagerexp:platinum_infused_netherite"
+        ]
+      },
+      "max_damage": 9999,
+      "tool": {
+        "rules": [
+          {
+            "blocks": "#jkmt:diamond",
+            "speed": 12,
+            "correct_for_drops": true
+          }
+        ]
+      }
+    }
+  }
+}
