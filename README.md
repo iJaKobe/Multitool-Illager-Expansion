@@ -1,4 +1,4 @@
-# Modern Multitools – Netherite Only Edition
+# Multitools – Netherite Only Edition
 
 A stripped-down fork of the original Modern Multitools datapack by JK137, modified to support only **Netherite-tier multitools**, including those from **Illager Expansion Recrafted**.
 
