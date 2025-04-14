@@ -13,8 +13,8 @@
     "components": {
       "lore": [
         {
-          "text": "Multitool",
-          "color": "aqua",
+          "text": "Super Miner",
+          "color": "light_purple",
           "italic": false
         }
       ],
@@ -28,7 +28,7 @@
         "rules": [
           {
             "blocks": "#jakobe:diamond",
-            "speed": 9,
+            "speed": 12,
             "correct_for_drops": true
           }
         ]
