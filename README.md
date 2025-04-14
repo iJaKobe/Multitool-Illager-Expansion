@@ -5,7 +5,6 @@ A stripped-down fork of the original Modern Multitools datapack by JK137, modifi
 ## Features
 
 - Combine a netherite axe, pickaxe, hoe, and shovel to craft a powerful multitool.
-- Tool switching supported via hotkey (F) between axe, pickaxe, hoe, and shovel modes.
 - No support for other tiers (wood, stone, iron, gold, diamond).
 - Sword and shield upgrades have been fully removed.
 
