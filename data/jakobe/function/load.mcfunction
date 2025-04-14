@@ -1,2 +1,2 @@
 # Display welcome messages to players
-tellraw @p [{ "text": "Loaded ", "color": "aqua" }, { "text": "Simple Multitools v0.3", "color": "light_purple" }]
+tellraw @p [{ "text": "Loaded ", "color": "aqua" }, { "text": "Simple Multitools v1.1.0", "color": "light_purple" }]
