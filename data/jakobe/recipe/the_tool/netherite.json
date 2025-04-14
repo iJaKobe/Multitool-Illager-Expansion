@@ -9,7 +9,7 @@
   ],
   "result": {
     "count": 1,
-    "id": "netherite_axe",
+    "id": "netherite_pickaxe",
     "components": {
       "lore": [
         {
@@ -19,7 +19,7 @@
         }
       ],
       "custom_data": {
-        "jkmt": [
+        "jakobe": [
           "netherite"
         ]
       },
@@ -27,7 +27,7 @@
       "tool": {
         "rules": [
           {
-            "blocks": "#jkmt:diamond",
+            "blocks": "#jakobe:diamond",
             "speed": 9,
             "correct_for_drops": true
           }

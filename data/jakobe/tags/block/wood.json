@@ -3,7 +3,7 @@
         "#mineable/axe",
         "#mineable/hoe",
         "#mineable/shovel",
-        "#jkmt:needs_wooden_tool",
-        "#jkmt:extra"
+        "#jakobe:needs_wooden_tool",
+        "#jakobe:extra"
     ]
 }

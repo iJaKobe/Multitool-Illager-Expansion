@@ -9,7 +9,7 @@
   ],
   "result": {
     "count": 1,
-    "id": "illagerexp:platinum_infused_netherite_axe",
+    "id": "illagerexp:platinum_infused_netherite_pickaxe",
     "components": {
       "lore": [
         {
@@ -19,7 +19,7 @@
         }
       ],
       "custom_data": {
-        "jkmt": [
+        "jakobe": [
           "illagerexp:platinum_infused_netherite"
         ]
       },
@@ -27,7 +27,7 @@
       "tool": {
         "rules": [
           {
-            "blocks": "#jkmt:diamond",
+            "blocks": "#jakobe:diamond",
             "speed": 12,
             "correct_for_drops": true
           }
