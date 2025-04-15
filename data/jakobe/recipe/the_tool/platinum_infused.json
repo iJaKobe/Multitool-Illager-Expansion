@@ -15,7 +15,7 @@
         {
           "text": "Super Miner",
           "color": "light_purple",
-          "italic": true
+          "italic": false
         }
       ],
       "custom_data": {
